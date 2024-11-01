@@ -1,0 +1,17 @@
+.curso-lista {
+    padding: 2em;
+    background-color: #f8f9fa;
+  }
+  
+  .curso-lista h2 {
+    text-align: center;
+  }
+  
+  .curso-item {
+    background: #ffffff;
+    padding: 1.5em;
+    margin: 1em 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
